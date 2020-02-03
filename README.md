@@ -1,2 +1,2 @@
-# graceful
-Graceful shutdown of go servers.
+# Goweb
+Simple go web server.
